@@ -156,3 +156,5 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bodundeft)](https://github.com/Bodundeft/github-readme-stats)
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Bodundeft&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Bodundeft/github-readme-stats#gh-dark-mode-only)
